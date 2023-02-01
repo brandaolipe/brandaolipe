@@ -1,6 +1,6 @@
 ### Oi, eu sou o Felipe Brandão
-🔭 Trabalho com front-end<br>
-🌱 Estudando JavaScript e ReactJS<br>
+🔭 Estudando desenvolvimento web front-end<br>
+🌱 Aprendendo JavaScript e ReactJS<br>
 📫 email: felipebrandaochaves@gmail.com<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaolipe&layout=compact)](https://github.com/brandaolipe/github-readme-stats)
