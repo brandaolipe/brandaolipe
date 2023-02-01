@@ -1,4 +1,4 @@
-<div align="center">### Oi, eu sou o Felipe Brandão</div>
+### Oi, eu sou o Felipe Brandão
 🔭 Trabalho com front-end<br>
 🌱 Estudando JavaScript e ReactJS<br>
 📫 email: felipebrandaochaves@gmail.com<br>
