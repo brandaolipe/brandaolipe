@@ -3,7 +3,7 @@
 🌱 Aprendendo JavaScript e ReactJS<br>
 📫 email: felipebrandaochaves@gmail.com<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaolipe&layout=compact)](https://github.com/brandaolipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaolipe&langs_count=8)](https://github.com/brandaolipe/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,8 @@
 <!--
 **brandaolipe/brandaolipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![image](https://user-images.githubusercontent.com/108373884/216381519-bf30f8f7-37a7-41d6-980f-323f9c2fe4a0.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
