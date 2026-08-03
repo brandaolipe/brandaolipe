@@ -1,6 +1,5 @@
 ### Oi, eu sou o Felipe Brandão
 🔭 Estudando Engenharia de software<br>
-🌱 Aprendendo c<br>
 📫 email: felipebrandaochaves@gmail.com<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaolipe&langs_count=8)](https://github.com/brandaolipe/github-readme-stats)
